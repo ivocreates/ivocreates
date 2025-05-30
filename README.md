@@ -1,97 +1,106 @@
-# 👋 Hey there, I'm Ivo Pereira — aka [@ivocreates](https://github.com/ivocreates) 🚀
+<p align="center">
+  <img src="https://github.com/ivocreates/ivocreates/raw/main/miroon-cat.gif" width="200" alt="black cat coding gif"/>
+</p>
 
-[![Website](https://img.shields.io/badge/ivocreates.site-%233F72AF.svg?style=for-the-badge&logo=google-chrome)](https://ivocreates.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pereira-ivo)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter)](https://x.com/ivocreates)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium)](https://medium.com/@ivocreates)
-[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=devdotto)](https://dev.to/ivocreates)
+<h1 align="center">Hey there, I'm Ivo Pereira — aka <a href="https://github.com/ivocreates">@ivocreates</a> 🚀</h1>
+<p align="center">Full-Stack Developer · Cybersecurity Enthusiast · IoT Tinkerer · Blogsmith 🧠✨</p>
 
----
+<p align="center">
+  <a href="https://ivocreates.site"><img src="https://img.shields.io/badge/ivocreates.site-%233F72AF.svg?style=for-the-badge&logo=google-chrome"/></a>
+  <a href="https://linkedin.com/in/pereira-ivo"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://x.com/ivocreates"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter"/></a>
+  <a href="https://medium.com/@ivocreates"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium"/></a>
+  <a href="https://dev.to/ivocreates"><img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=devdotto"/></a>
+</p>
 
-### 👨‍💻 About Me
-
-- 👀 I’m interested in **Web Development**, **Cybersecurity**, **IoT**, and **Open-Source Intelligence (OSINT)**
-- 🌱 I’m currently learning **Google Cloud**, **Flutter**, and **offensive security**
-- 💞️ I’m looking to collaborate on **security-focused web apps** and **IoT projects**
-- 📫 Reach me at: [ivopereiraix3@gmail.com](mailto:ivopereiraix3@gmail.com) | [WhatsApp Me](https://wa.me/919403765835)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My typing game "Typoclapse" has a real-time leaderboard and sometimes beats me 😅
-
----
-
-### 🧠 Who I Am (In a Byte)
-
-I'm a curious Computer Science student from Maharashtra who builds stuff that’s **useful, secure, and fun.** Whether it’s a **gesture-controlled system**, a **typing game**, or a **Firebase-secured visitor app**, I love tech that solves real problems.
-
-I’m currently an intern at **Infowareindia**, have played with Python UIs, optimized databases, and improved workflows. I also dabble in **CTFs, blogging**, and explaining hard security concepts like they’re bedtime stories.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=3F72AF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ivo+Pereira;Web+Developer+%7C+Cybersecurity+Learner+%7C+IoT+Tinkerer;Building+fun+things+with+secure+code!" alt="Typing intro"/>
+</p>
 
 ---
 
-### 🛠️ What I Do
+### 🧶 Hello Human! I'm Ivo (aka ivocreates 🐱)
 
-- **🌐 Full-Stack Web Development:** React, Node.js, Bootstrap
-- **🛡️ Cybersecurity:** Secure coding, vulnerability testing, OSINT
-- **🧠 IoT Engineering:** Raspberry Pi, Arduino, sensors
-- **📝 Blogging:** Check my posts on security and dev tips!
-
-> 🌟 I’m open to freelance, internships, or collaborative R&D. If you’re building something cool or need a reliable teammate — I’m in!
-
----
-
-### 💡 Highlight Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**Typoclapse**](https://typoclapse.web.app) | Typing challenge game with Firebase leaderboard | JS, Firebase |
-| **Gatekeeper** | Visitor management dashboard with QR scan login | Firebase, JS |
-| **Smart Warehouse** | IoT-based stock system with Pi + Firebase | Python, IoT |
-| **Kinectix** | Touchless gesture control via OpenCV | Python, OpenCV |
-| **OSINT Hunter (WIP)** | One-stop OSINT toolkit | Python, Web
+- 👀 I love building **fun web apps**, **OSINT tools**, and **hardware-based tech toys**
+- 🌱 Learning **Flutter**, **Google Cloud**, and **Ethical Hacking**
+- 💥 Active in **research conventions**, **hackathons**, and **team collabs**
+- 🧩 Enjoy turning random ideas into quirky tools (sometimes with cats 🐾)
+- 📫 Contact me: [ivopereiraix3@gmail.com](mailto:ivopereiraix3@gmail.com) · [WhatsApp](https://wa.me/919403765835)
+- ⚡ Fun fact: My Firebase typing game once outscored me... now I type cautiously 😸
 
 ---
 
-### 🏅 Certifications & Achievements
+### 🪄 Hero Projects (a lil magic ✨)
 
-- 🎓 Google Cloud Innovator, Gemini SDLC, Flutter Dev
-- 🛡️ Cisco Cybersecurity Career Path, HTML, Threat Analysis
-- 🥉 AI Webathon Winner – SRM College
-- 🏆 Aavishkar Zonal Champion
-- 🔌 IoT Innovator – Smart Warehouse @ State Level
-
----
-
-### ✍️ Blog & Publication
-
-- 🧠 *The Rising Threat of Social Engineering Attacks* on [Telescope](https://telescope.ac/stories-of-ivo)
-- 📚 Also on [Medium](https://medium.com/@ivocreates), [Dev.to](https://dev.to/ivocreates), [Blogger](https://dev-perivo.blogspot.com)
+| ⭐ Project | 💬 Description | 🛠️ Stack |
+|----------|----------------|----------|
+| [**Electron Screenshot App**](https://github.com/ivocreates/electron-screenshot-app) | Takes periodic desktop screenshots with countdown & export | Electron, JS |
+| [**Py Billing App**](https://github.com/ivocreates/py-billing-app) | Modern billing system with MySQL & PDF invoicing | PySide6, MySQL, FPDF |
+| [**Typoclapse**](https://github.com/ivocreates/typoclapse) | Web-based typing game with real-time leaderboard | HTML, JS, Firebase |
+| [**Entry Keeper Book**](https://github.com/ivocreates/entry-keeper-book) | Digital visitor management for secure entries | JS, Firebase |
+| **OSINT Hunter (WIP)** | Friendly OSINT toolkit for researchers & sleuths | Python, Web |
 
 ---
 
-### 🌐 Social Handles & Tech Credentials
+### 💼 What I Work On
 
-- 🔗 [GitHub](https://github.com/ivocreates)
-- 🧑‍💼 [LinkedIn](https://linkedin.com/in/pereira-ivo)
+- 💻 Web apps with **React**, **Firebase**, **Bootstrap**
+- 🧠 IoT dashboards with **Raspberry Pi** & **Arduino**
+- 🔐 Writing secure code & exploring vulnerabilities
+- ✍️ **Blogging** on security, dev life, and random geekery
+
+> 📖 Read the latest on:
+- [Medium](https://medium.com/@ivocreates) · [Telescope](https://telescope.ac/stories-of-ivo) · [Dev.to](https://dev.to/ivocreates) · [Blogger](https://dev-perivo.blogspot.com)
+
+---
+
+### 🏆 Highlights & Street Cred
+
+- 🥇 3rd Place @ SRM AI Webathon (built a live site in under 90 mins 😅)
+- 🏆 Aavishkar Zonal Champ | State Level Finalist
+- 🧠 Cisco + Google Certified: **Cybersecurity**, **Cloud**, **SDLC**
+- 🔌 IoT Innovator — Smart Warehouse project showcased live
+
+---
+
+### 🌐 My World of Links
+
+- 🌐 [My Website](https://ivocreates.site)
+- 📱 [Instagram](https://instagram.com/perivo_ix3) · [Threads](https://www.threads.com/@perivo_ix3) · [Facebook](https://facebook.com/ivpereira)
+- 👨‍💼 [LinkedIn](https://linkedin.com/in/pereira-ivo)
 - 🧪 [Google Developer](https://g.dev/ivopereira)
-- ☁️ [Google Cloud Skills](https://www.cloudskillsboost.google/public_profiles/cee00cf0-fb42-4b7f-9c4c-fe4cd4aafab6)
-- 📛 [Credly Badges](https://www.credly.com/users/ivo_pereira)
-- 📸 [Instagram](https://instagram.com/perivo_ix3) | [Facebook](https://facebook.com/ivpereira) | [Threads](https://www.threads.com/@perivo_ix3)
+- ☁️ [Cloud Profile](https://www.cloudskillsboost.google/public_profiles/cee00cf0-fb42-4b7f-9c4c-fe4cd4aafab6)
+- 🏅 [Credly Badges](https://www.credly.com/users/ivo_pereira)
 
 ---
 
-### 🤝 Let’s Build Something Together!
+### 📊 GitHub Stats
 
-If you’re:
-- A dev looking for a **teammate** to collaborate on something exciting
-- A recruiter seeking a **smart, creative hacker/dev**
-- A founder in need of a **freelancer for secure systems or full-stack work**
-- A curious mind who wants to just **say hi**
-
-→ Let’s connect. I’m just a message away ✨
-
-> 💬 *Wanna sponsor, collaborate, or ask for guidance? I’d be happy to assist or mentor!*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ivocreates&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivocreates&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
-> ⚠️ Warning: May drop spontaneous puns, refactor bad code into poetry, or debug while sipping chai ☕️
+### 🤝 Let’s Build, Break, and Learn Together
 
-Thanks for visiting my README — now go build something epic 💙
+If you're:
+- 🧑‍💻 A dev who wants a teammate with crazy ideas
+- 🚀 A founder needing a **secure web solution**
+- 🧠 A student who loves research & late-night debugging
+- 🐾 A curious cat person who just vibes with good code
+
+> 💌 Ping me for collabs, guidance, or just to geek out on weird projects.
+
+I’m always game for building something cool, weird, helpful — or all three. 🤓
+
+---
+
+<p align="center">
+  <img src="https://github.com/ivocreates/ivocreates/raw/main/miroon-cat.gif" width="150" alt="coding cat"/>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting! May your code compile, your cat purr, and your bugs disappear 🐛✨</i>
+</p>
