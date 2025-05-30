@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=3F72AF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ivo+Pereira;Web+Developer+%7C+Cybersecurity+Learner+%7C+IoT+Tinkerer;Building+fun+things+with+secure+code!" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1200&color=3F72AF&center=true&vCenter=true&multiline=true&width=700&lines=I+love+building+secure+apps+that+solve+real+problems!" alt="Typing intro"/>
 </p>
 
 ---
@@ -49,8 +49,8 @@
 - 🔐 Writing secure code & exploring vulnerabilities
 - ✍️ **Blogging** on security, dev life, and random geekery
 
-> 📖 Read the latest on:
-- [Medium](https://medium.com/@ivocreates) · [Telescope](https://telescope.ac/stories-of-ivo) · [Dev.to](https://dev.to/ivocreates) · [Blogger](https://dev-perivo.blogspot.com)
+> 📖 Read my blogs:
+- [Telescope](https://telescope.ac/stories-of-ivo) · [Medium](https://medium.com/@ivocreates) · [Dev.to](https://dev.to/ivocreates) · [Blogger](https://dev-perivo.blogspot.com)
 
 ---
 
@@ -63,14 +63,29 @@
 
 ---
 
+### 🧪 Certifications & Profiles
+
+<p align="center">
+  <a href="https://www.credly.com/users/ivo_pereira"><img src="https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly"/></a>
+  <a href="https://g.dev/ivopereira"><img src="https://img.shields.io/badge/Google-Developer-blue?style=for-the-badge&logo=google"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/cee00cf0-fb42-4b7f-9c4c-fe4cd4aafab6"><img src="https://img.shields.io/badge/Google-Cloud%20Skills-blue?style=for-the-badge&logo=googlecloud"/></a>
+</p>
+
+---
+
 ### 🌐 My World of Links
 
-- 🌐 [My Website](https://ivocreates.site)
+- 🌐 [Portfolio](https://ivocreates.site)
 - 📱 [Instagram](https://instagram.com/perivo_ix3) · [Threads](https://www.threads.com/@perivo_ix3) · [Facebook](https://facebook.com/ivpereira)
 - 👨‍💼 [LinkedIn](https://linkedin.com/in/pereira-ivo)
+- 💻 [GitHub](https://github.com/ivocreates)
 - 🧪 [Google Developer](https://g.dev/ivopereira)
-- ☁️ [Cloud Profile](https://www.cloudskillsboost.google/public_profiles/cee00cf0-fb42-4b7f-9c4c-fe4cd4aafab6)
-- 🏅 [Credly Badges](https://www.credly.com/users/ivo_pereira)
+- ☁️ [Cloud Skills](https://www.cloudskillsboost.google/public_profiles/cee00cf0-fb42-4b7f-9c4c-fe4cd4aafab6)
+- 🏅 [Credly](https://www.credly.com/users/ivo_pereira)
+
+📄 [Download Resume](https://ivocreates.site)  
+📧 Email: ivopereiraix3@gmail.com  
+📞 Phone: +91 9403765835
 
 ---
 
