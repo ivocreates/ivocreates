@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hey there, I'm Ivo Pereira — aka [@ivocreates](https://github.com/ivocreates) 🚀
 
 [![Website](https://img.shields.io/badge/ivocreates.site-%233F72AF.svg?style=for-the-badge&logo=google-chrome)](https://ivocreates.site)
@@ -96,4 +95,3 @@ If you’re:
 > ⚠️ Warning: May drop spontaneous puns, refactor bad code into poetry, or debug while sipping chai ☕️
 
 Thanks for visiting my README — now go build something epic 💙
-```
