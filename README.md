@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ivocreates.ivocreates" alt="visitor badge"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivocreates&theme=dark" alt="streaks badge"/>
 </p>
 
 <p align="center">
